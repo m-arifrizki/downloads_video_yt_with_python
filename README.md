@@ -1,2 +1,5 @@
-# downloads_video_yt_with_python
-automation downloads video youtube with python
+# automation downloads video youtube with python
+
+run:
+$ python3 app_download_video.py
+
